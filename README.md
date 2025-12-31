@@ -44,7 +44,7 @@ It works well because the target variable has only two classes: Rain or No Rain.
 
 - Confusion Matrix
 
-Classification Report
+- Classification Report
 
 The model performs well for basic prediction on weather datasets.
 
