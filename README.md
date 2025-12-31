@@ -22,7 +22,7 @@ The goal is to build a simple and accurate ML model that helps forecast rainfall
 - To train a machine learning model
 - To predict if it will rain the next day
 
-To deploy the model using Streamlit/GitHub/Railway (optional)
+- To deploy the model using Streamlit/GitHub/Railway (optional)
 
 # 🧠 Machine Learning Approach
  1️⃣ Data Preprocessing
