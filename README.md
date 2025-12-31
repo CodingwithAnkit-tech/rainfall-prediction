@@ -82,8 +82,7 @@ streamlit run app.py
 
 - Max Temperature
 - Min Temperature
-
-Rainfall (Precipitation)
+- Rainfall (Precipitation)
 
 Wind Speed
 The app predicts:
