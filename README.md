@@ -73,7 +73,6 @@ streamlit run app.py
 # 🌐 Deployment
 
 - This project can be deployed on:
-
 Railway
 Render
 Streamlit Cloud
