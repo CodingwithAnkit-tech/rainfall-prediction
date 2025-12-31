@@ -76,7 +76,7 @@ streamlit run app.py
 - Railway
 - Render
 - Streamlit Cloud
-GitHub Pages (only frontend)
+- GitHub Pages (only frontend)
 
 # 🖥️ Input Features in the App
 
