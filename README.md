@@ -27,7 +27,7 @@ The goal is to build a simple and accurate ML model that helps forecast rainfall
 # 🧠 Machine Learning Approach
  1️⃣ Data Preprocessing
  
-Handled missing values
+- Handled missing values
 
 Selected required numerical features
 
