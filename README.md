@@ -75,7 +75,7 @@ streamlit run app.py
 - This project can be deployed on:
 - Railway
 - Render
-Streamlit Cloud
+- Streamlit Cloud
 GitHub Pages (only frontend)
 
 # 🖥️ Input Features in the App
