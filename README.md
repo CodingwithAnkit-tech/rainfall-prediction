@@ -30,7 +30,6 @@ The goal is to build a simple and accurate ML model that helps forecast rainfall
 - Handled missing values
 - Selected required numerical features
 - Standardized data
-
 Split into Train/Test sets
 
 - 2️⃣ Model Used
