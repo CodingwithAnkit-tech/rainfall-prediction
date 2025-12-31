@@ -54,8 +54,7 @@ The model performs well for basic prediction on weather datasets.
 - Pandas
 - Matplotlib / Seaborn
 - Scikit-Learn
-
-Streamlit (for web app)
+- Streamlit (for web app)
 
 📂 Project Structure
 ├── dataset.csv
