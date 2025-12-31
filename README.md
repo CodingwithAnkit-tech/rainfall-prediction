@@ -49,7 +49,7 @@ The model performs well for basic prediction on weather datasets.
 
 # 🛠️ Tech Stack
 
-Python 3.x
+- Python 3.x
 
 NumPy
 
