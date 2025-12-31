@@ -42,7 +42,7 @@ It works well because the target variable has only two classes: Rain or No Rain.
 
 - Accuracy Score
 
-Confusion Matrix
+- Confusion Matrix
 
 Classification Report
 
