@@ -5,7 +5,7 @@
 # 📌 Project Overview
 
 - This project aims to predict Rainfall (Yes/No) using weather data.
-Since the output is binary, we use Logistic Regression, which is ideal for classification problems.
+- Since the output is binary, we use Logistic Regression, which is ideal for classification problems.
 
 The model is trained on important weather features such as:
 
