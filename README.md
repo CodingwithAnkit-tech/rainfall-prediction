@@ -78,7 +78,6 @@ Railway
 Render
 
 Streamlit Cloud
-
 GitHub Pages (only frontend)
 
 # 🖥️ Input Features in the App
