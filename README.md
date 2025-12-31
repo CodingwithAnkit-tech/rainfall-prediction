@@ -80,7 +80,7 @@ streamlit run app.py
 
 # 🖥️ Input Features in the App
 
-Max Temperature
+- Max Temperature
 
 Min Temperature
 
