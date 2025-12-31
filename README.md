@@ -25,7 +25,7 @@ The goal is to build a simple and accurate ML model that helps forecast rainfall
 To deploy the model using Streamlit/GitHub/Railway (optional)
 
 # 🧠 Machine Learning Approach
-- 1️⃣ Data Preprocessing
+ 1️⃣ Data Preprocessing
 Handled missing values
 
 Selected required numerical features
