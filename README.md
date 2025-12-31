@@ -28,7 +28,6 @@ To deploy the model using Streamlit/GitHub/Railway (optional)
 
 # 🧠 Machine Learning Approach
 - 1️⃣ Data Preprocessing
-
 Handled missing values
 
 Selected required numerical features
