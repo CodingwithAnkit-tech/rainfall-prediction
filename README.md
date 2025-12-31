@@ -51,7 +51,7 @@ The model performs well for basic prediction on weather datasets.
 
 - Python 3.x
 - NumPy
-Pandas
+- Pandas
 Matplotlib / Seaborn
 
 Scikit-Learn
