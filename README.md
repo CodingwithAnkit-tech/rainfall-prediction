@@ -72,7 +72,7 @@ streamlit run app.py
 
 # 🌐 Deployment
 
-This project can be deployed on:
+- This project can be deployed on:
 
 Railway
 
