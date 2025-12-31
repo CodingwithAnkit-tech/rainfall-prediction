@@ -76,7 +76,6 @@ streamlit run app.py
 
 Railway
 Render
-
 Streamlit Cloud
 GitHub Pages (only frontend)
 
