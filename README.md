@@ -28,7 +28,7 @@ The goal is to build a simple and accurate ML model that helps forecast rainfall
  1️⃣ Data Preprocessing
  
 - Handled missing values
-Selected required numerical features
+- Selected required numerical features
 - Standardized data
 
 Split into Train/Test sets
