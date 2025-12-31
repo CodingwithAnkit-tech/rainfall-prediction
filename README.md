@@ -56,7 +56,7 @@ The model performs well for basic prediction on weather datasets.
 - Scikit-Learn
 - Streamlit (for web app)
 
-📂 Project Structure
+# 📂 Project Structure
 ├── dataset.csv
 ├── app.py
 ├── model.pkl
