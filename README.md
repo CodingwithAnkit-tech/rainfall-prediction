@@ -53,8 +53,7 @@ The model performs well for basic prediction on weather datasets.
 - NumPy
 - Pandas
 - Matplotlib / Seaborn
-
-Scikit-Learn
+- Scikit-Learn
 
 Streamlit (for web app)
 
