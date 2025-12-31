@@ -83,8 +83,7 @@ streamlit run app.py
 - Max Temperature
 - Min Temperature
 - Rainfall (Precipitation)
-
-Wind Speed
+-Wind Speed
 The app predicts:
 👉 Rainfall Tomorrow: Yes / No
 
