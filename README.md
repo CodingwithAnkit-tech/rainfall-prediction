@@ -87,7 +87,7 @@ streamlit run app.py
 - The app predicts:
 # 👉 Rainfall Tomorrow: Yes / No
 
-🧾 Conclusion
+# 🧾 Conclusion
 
 This project demonstrates how simple weather features can be used to predict rainfall using machine learning. Logistic Regression provides a reliable and efficient solution for binary classification.
 
