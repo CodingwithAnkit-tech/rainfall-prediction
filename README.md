@@ -81,13 +81,11 @@ streamlit run app.py
 # 🖥️ Input Features in the App
 
 - Max Temperature
-
-Min Temperature
+- Min Temperature
 
 Rainfall (Precipitation)
 
 Wind Speed
-
 The app predicts:
 👉 Rainfall Tomorrow: Yes / No
 
