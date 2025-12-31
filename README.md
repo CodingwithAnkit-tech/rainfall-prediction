@@ -18,7 +18,7 @@ The goal is to build a simple and accurate ML model that helps forecast rainfall
 
 # 🎯 Project Objective
 
-To analyze historical weather data
+- To analyze historical weather data
 
 To train a machine learning model
 
