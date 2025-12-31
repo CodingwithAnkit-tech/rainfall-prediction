@@ -85,7 +85,7 @@ streamlit run app.py
 - Rainfall (Precipitation)
 - Wind Speed
 - The app predicts:
-👉 Rainfall Tomorrow: Yes / No
+# 👉 Rainfall Tomorrow: Yes / No
 
 🧾 Conclusion
 
