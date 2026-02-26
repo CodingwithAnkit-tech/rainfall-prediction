@@ -9,6 +9,7 @@
 - The model is trained on important weather features such as:
 
 - 🌡️ Temperature (Max & Min)
+  
 - 
 
 - 💧 Precipitation
