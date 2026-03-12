@@ -32,6 +32,7 @@ The goal is to build a simple and accurate ML model that helps forecast rainfall
 - Standardized data
 - Split into Train/Test sets
 
+
 - 2️⃣ Model Used
 
 ✔ Logistic Regression (Binary Classifier)
