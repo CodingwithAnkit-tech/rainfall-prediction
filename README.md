@@ -11,7 +11,6 @@
 - 🌡️ Temperature (Max & Min)
   
 - 
-
 - 💧 Precipitation
 
 - 🌬️ Wind Speed
