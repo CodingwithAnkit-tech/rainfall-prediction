@@ -1,6 +1,5 @@
 # 🌧️ Rainfall Prediction Project
 - Predicting whether it will rain tomorrow using Machine Learning.
-
   
 # 📌 Project Overview
 
